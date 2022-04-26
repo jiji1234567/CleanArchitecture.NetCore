@@ -1,0 +1,15 @@
+D:\github\CleanArchitecture.NetCore\Demo\Services\bin\Debug\net6.0\Services.deps.json
+D:\github\CleanArchitecture.NetCore\Demo\Services\bin\Debug\net6.0\Services.dll
+D:\github\CleanArchitecture.NetCore\Demo\Services\bin\Debug\net6.0\Services.pdb
+D:\github\CleanArchitecture.NetCore\Demo\Services\bin\Debug\net6.0\Demo.Entity.dll
+D:\github\CleanArchitecture.NetCore\Demo\Services\bin\Debug\net6.0\Demo.Entity.pdb
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.dll
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\refint\Services.dll
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\Services.pdb
+D:\github\CleanArchitecture.NetCore\Demo\Services\obj\Debug\net6.0\ref\Services.dll

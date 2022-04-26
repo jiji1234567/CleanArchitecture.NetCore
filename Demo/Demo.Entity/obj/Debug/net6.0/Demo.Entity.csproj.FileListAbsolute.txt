@@ -1,0 +1,12 @@
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\bin\Debug\net6.0\Demo.Entity.deps.json
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\bin\Debug\net6.0\Demo.Entity.dll
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\bin\Debug\net6.0\Demo.Entity.pdb
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.csproj.AssemblyReference.cache
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.AssemblyInfoInputs.cache
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.AssemblyInfo.cs
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.csproj.CoreCompileInputs.cache
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.dll
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\refint\Demo.Entity.dll
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\Demo.Entity.pdb
+D:\github\CleanArchitecture.NetCore\Demo\Demo.Entity\obj\Debug\net6.0\ref\Demo.Entity.dll
